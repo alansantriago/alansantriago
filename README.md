@@ -28,7 +28,7 @@ I'm Alan Syahlan Santriago, with a strong background in web and mobile developme
 ## Github Stats
 
 <p align="left">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alansantriago&show_icons=true&" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=alansantriago&show_icons=true&theme=transparent" /></p>
 
 <p align="left">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansantriago&layout=compact&theme=algolia&hide_border=true" /></p>
