@@ -10,7 +10,7 @@ I'm Alan Syahlan Santriago, with a strong background in web and mobile developme
 [![Instagram Badge](https://img.shields.io/badge/-@alansantriago-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/alansantriago)
 [![Mail Badge](https://img.shields.io/badge/-alansyahlansantriago99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alansyahlansantriago99@gmail.com) 
 
-[![View Site - Portofolio](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://alansantriago.vercel.app/)
+[![My - Portofolio](https://img.shields.io/static/v1?label=My&message=Portofolio&color=Green&style=for-the-badge&logo=website)](https://alansantriago.vercel.app)
 
 ## Languages and Tools: 
 
