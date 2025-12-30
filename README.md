@@ -24,10 +24,10 @@ I'm Alan Syahlan Santriago, with a strong background in web and mobile developme
 [![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
 [![Node Badge](<https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>)](#)
 
-## Github Stats
+## GitHub Stats
 
-<p align="left">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alansantriago&show_icons=true&theme=transparent" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alansantriago&theme=github)
 
-<p align="left">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansantriago&layout=compact&theme=algolia&hide_border=false" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alansantriago&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alansantriago&theme=github)
